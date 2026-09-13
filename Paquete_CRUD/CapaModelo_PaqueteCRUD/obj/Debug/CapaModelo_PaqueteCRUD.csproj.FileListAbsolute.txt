@@ -1,0 +1,12 @@
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaModelo_PaqueteCRUD\bin\Debug\CapaModelo_PaqueteCRUD.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaModelo_PaqueteCRUD\bin\Debug\CapaModelo_PaqueteCRUD.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaModelo_PaqueteCRUD\obj\Debug\CapaModelo_PaqueteCRUD.csproj.AssemblyReference.cache
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaModelo_PaqueteCRUD\obj\Debug\CapaModelo_PaqueteCRUD.csproj.CoreCompileInputs.cache
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaModelo_PaqueteCRUD\obj\Debug\CapaModelo_PaqueteCRUD.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaModelo_PaqueteCRUD\obj\Debug\CapaModelo_PaqueteCRUD.pdb
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaModelo_PaqueteCRUD\bin\Debug\CapaModelo_PaqueteCRUD.dll
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaModelo_PaqueteCRUD\bin\Debug\CapaModelo_PaqueteCRUD.pdb
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaModelo_PaqueteCRUD\obj\Debug\CapaModelo_PaqueteCRUD.csproj.AssemblyReference.cache
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaModelo_PaqueteCRUD\obj\Debug\CapaModelo_PaqueteCRUD.csproj.CoreCompileInputs.cache
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaModelo_PaqueteCRUD\obj\Debug\CapaModelo_PaqueteCRUD.dll
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaModelo_PaqueteCRUD\obj\Debug\CapaModelo_PaqueteCRUD.pdb

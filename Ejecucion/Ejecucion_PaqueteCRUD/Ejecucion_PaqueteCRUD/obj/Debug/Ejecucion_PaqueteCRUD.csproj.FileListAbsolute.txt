@@ -1,0 +1,46 @@
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\Ejecucion_PaqueteCRUD.exe.config
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\Ejecucion_PaqueteCRUD.exe
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\Ejecucion_PaqueteCRUD.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\CapaControlador_PaqueteCRUD.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\CapaModelo_PaqueteCRUD.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\CapaVista_PaqueteCRUD.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\Capa_Controlador_ComboI.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\Capa_Modelo_ComboI.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\Capa_Vista_ComboI.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\CapaControlador_PaqueteCRUD.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\CapaModelo_PaqueteCRUD.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\CapaVista_PaqueteCRUD.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\Capa_Vista_ComboI.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\Capa_Controlador_ComboI.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\Capa_Modelo_ComboI.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\obj\Debug\Ejecucion_PaqueteCRUD.csproj.AssemblyReference.cache
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\obj\Debug\Ejecucion_PaqueteCRUD.Properties.Resources.resources
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\obj\Debug\Ejecucion_PaqueteCRUD.csproj.GenerateResource.cache
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\obj\Debug\Ejecucion_PaqueteCRUD.csproj.CoreCompileInputs.cache
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\obj\Debug\Ejecucio.AE0920E3.Up2Date
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\obj\Debug\Ejecucion_PaqueteCRUD.exe
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\obj\Debug\Ejecucion_PaqueteCRUD.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\obj\Debug\Ejecucion_PaqueteCRUD.exe.config
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\Ejecucion_PaqueteCRUD.exe.config
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\Ejecucion_PaqueteCRUD.exe
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\Ejecucion_PaqueteCRUD.pdb
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\CapaControlador_PaqueteCRUD.dll
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\CapaModelo_PaqueteCRUD.dll
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\CapaVista_PaqueteCRUD.dll
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\Capa_Controlador_ComboI.dll
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\Capa_Modelo_ComboI.dll
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\Capa_Vista_ComboI.dll
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\CapaControlador_PaqueteCRUD.pdb
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\CapaModelo_PaqueteCRUD.pdb
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\CapaVista_PaqueteCRUD.pdb
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\Capa_Vista_ComboI.pdb
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\Capa_Controlador_ComboI.pdb
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\bin\Debug\Capa_Modelo_ComboI.pdb
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\obj\Debug\Ejecucion_PaqueteCRUD.csproj.AssemblyReference.cache
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\obj\Debug\Ejecucion_PaqueteCRUD.exe.config
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\obj\Debug\Ejecucion_PaqueteCRUD.Properties.Resources.resources
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\obj\Debug\Ejecucion_PaqueteCRUD.csproj.GenerateResource.cache
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\obj\Debug\Ejecucion_PaqueteCRUD.csproj.CoreCompileInputs.cache
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\obj\Debug\Ejecucio.AE0920E3.Up2Date
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\obj\Debug\Ejecucion_PaqueteCRUD.exe
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Ejecucion\Ejecucion_PaqueteCRUD\Ejecucion_PaqueteCRUD\obj\Debug\Ejecucion_PaqueteCRUD.pdb

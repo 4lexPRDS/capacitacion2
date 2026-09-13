@@ -1,0 +1,38 @@
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\CapaVista_PaqueteCRUD.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\CapaVista_PaqueteCRUD.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\CapaControlador_PaqueteCRUD.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\Capa_Controlador_ComboI.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\Capa_Modelo_ComboI.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\Capa_Vista_ComboI.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\CapaModelo_PaqueteCRUD.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\CapaControlador_PaqueteCRUD.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\Capa_Vista_ComboI.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\Capa_Controlador_ComboI.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\Capa_Modelo_ComboI.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\CapaModelo_PaqueteCRUD.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaVista_PaqueteCRUD\obj\Debug\CapaVista_PaqueteCRUD.csproj.AssemblyReference.cache
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaVista_PaqueteCRUD\obj\Debug\CapaVista_PaqueteCRUD.Formas.FrmPaquetes.resources
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaVista_PaqueteCRUD\obj\Debug\CapaVista_PaqueteCRUD.csproj.GenerateResource.cache
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaVista_PaqueteCRUD\obj\Debug\CapaVista_PaqueteCRUD.csproj.CoreCompileInputs.cache
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaVista_PaqueteCRUD\obj\Debug\CapaVist.3EC0D8B1.Up2Date
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaVista_PaqueteCRUD\obj\Debug\CapaVista_PaqueteCRUD.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaVista_PaqueteCRUD\obj\Debug\CapaVista_PaqueteCRUD.pdb
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\CapaVista_PaqueteCRUD.dll
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\CapaVista_PaqueteCRUD.pdb
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\CapaControlador_PaqueteCRUD.dll
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\Capa_Controlador_ComboI.dll
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\Capa_Modelo_ComboI.dll
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\Capa_Vista_ComboI.dll
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\CapaModelo_PaqueteCRUD.dll
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\CapaControlador_PaqueteCRUD.pdb
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\Capa_Vista_ComboI.pdb
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\Capa_Controlador_ComboI.pdb
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\Capa_Modelo_ComboI.pdb
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaVista_PaqueteCRUD\bin\Debug\CapaModelo_PaqueteCRUD.pdb
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaVista_PaqueteCRUD\obj\Debug\CapaVista_PaqueteCRUD.csproj.AssemblyReference.cache
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaVista_PaqueteCRUD\obj\Debug\CapaVista_PaqueteCRUD.Formas.FrmPaquetes.resources
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaVista_PaqueteCRUD\obj\Debug\CapaVista_PaqueteCRUD.csproj.GenerateResource.cache
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaVista_PaqueteCRUD\obj\Debug\CapaVista_PaqueteCRUD.csproj.CoreCompileInputs.cache
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaVista_PaqueteCRUD\obj\Debug\CapaVist.3EC0D8B1.Up2Date
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaVista_PaqueteCRUD\obj\Debug\CapaVista_PaqueteCRUD.dll
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaVista_PaqueteCRUD\obj\Debug\CapaVista_PaqueteCRUD.pdb

@@ -1,0 +1,13 @@
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\ComboInteligente\Capa_Vista_ComboI\bin\Debug\Capa_Vista_ComboI.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\ComboInteligente\Capa_Vista_ComboI\bin\Debug\Capa_Vista_ComboI.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\ComboInteligente\Capa_Vista_ComboI\bin\Debug\Capa_Controlador_ComboI.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\ComboInteligente\Capa_Vista_ComboI\bin\Debug\Capa_Modelo_ComboI.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\ComboInteligente\Capa_Vista_ComboI\bin\Debug\Capa_Controlador_ComboI.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\ComboInteligente\Capa_Vista_ComboI\bin\Debug\Capa_Modelo_ComboI.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\ComboInteligente\Capa_Vista_ComboI\obj\Debug\Capa_Vista_ComboI.csproj.AssemblyReference.cache
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\ComboInteligente\Capa_Vista_ComboI\obj\Debug\Capa_Vista_ComboI.ComboI.resources
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\ComboInteligente\Capa_Vista_ComboI\obj\Debug\Capa_Vista_ComboI.csproj.GenerateResource.cache
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\ComboInteligente\Capa_Vista_ComboI\obj\Debug\Capa_Vista_ComboI.csproj.CoreCompileInputs.cache
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\ComboInteligente\Capa_Vista_ComboI\obj\Debug\Capa_Vis.6A0DEAAF.Up2Date
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\ComboInteligente\Capa_Vista_ComboI\obj\Debug\Capa_Vista_ComboI.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\ComboInteligente\Capa_Vista_ComboI\obj\Debug\Capa_Vista_ComboI.pdb

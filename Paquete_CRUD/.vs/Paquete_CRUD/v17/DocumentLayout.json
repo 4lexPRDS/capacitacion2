@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alex5\\Downloads\\Capacitacion 2\\Capacitacion 2\\Paquete_CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD32CE-2C76-4877-BA2F-A1FC6C2D5EF3}|CapaControlador_PaqueteCRUD\\CapaControlador_PaqueteCRUD.csproj|c:\\users\\alex5\\downloads\\capacitacion 2\\capacitacion 2\\paquete_crud\\capacontrolador_paquetecrud\\controladorpaquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AD32CE-2C76-4877-BA2F-A1FC6C2D5EF3}|CapaControlador_PaqueteCRUD\\CapaControlador_PaqueteCRUD.csproj|solutionrelative:capacontrolador_paquetecrud\\controladorpaquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84AD32CE-2C76-4877-BA2F-A1FC6C2D5EF3}|CapaControlador_PaqueteCRUD\\CapaControlador_PaqueteCRUD.csproj|c:\\users\\alex5\\downloads\\capacitacion 2\\capacitacion 2\\paquete_crud\\capacontrolador_paquetecrud\\estadoentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84AD32CE-2C76-4877-BA2F-A1FC6C2D5EF3}|CapaControlador_PaqueteCRUD\\CapaControlador_PaqueteCRUD.csproj|solutionrelative:capacontrolador_paquetecrud\\estadoentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AB504C-A6AE-4055-B849-A7D49C87D8F4}|CapaVista_PaqueteCRUD\\CapaVista_PaqueteCRUD.csproj|c:\\users\\alex5\\downloads\\capacitacion 2\\capacitacion 2\\paquete_crud\\capavista_paquetecrud\\formas\\frmpaquetes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35AB504C-A6AE-4055-B849-A7D49C87D8F4}|CapaVista_PaqueteCRUD\\CapaVista_PaqueteCRUD.csproj|solutionrelative:capavista_paquetecrud\\formas\\frmpaquetes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AB504C-A6AE-4055-B849-A7D49C87D8F4}|CapaVista_PaqueteCRUD\\CapaVista_PaqueteCRUD.csproj|C:\\Users\\alex5\\Downloads\\Capacitacion 2\\Capacitacion 2\\Paquete_CRUD\\capavista_paquetecrud\\formas\\frmpaquetes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AB504C-A6AE-4055-B849-A7D49C87D8F4}|CapaVista_PaqueteCRUD\\CapaVista_PaqueteCRUD.csproj|solutionrelative:capavista_paquetecrud\\formas\\frmpaquetes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControladorPaquete.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\Downloads\\Capacitacion 2\\Capacitacion 2\\Paquete_CRUD\\CapaControlador_PaqueteCRUD\\ControladorPaquete.cs",
+              "RelativeDocumentMoniker": "CapaControlador_PaqueteCRUD\\ControladorPaquete.cs",
+              "ToolTip": "C:\\Users\\alex5\\Downloads\\Capacitacion 2\\Capacitacion 2\\Paquete_CRUD\\CapaControlador_PaqueteCRUD\\ControladorPaquete.cs",
+              "RelativeToolTip": "CapaControlador_PaqueteCRUD\\ControladorPaquete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T06:43:50.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstadoEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\Downloads\\Capacitacion 2\\Capacitacion 2\\Paquete_CRUD\\CapaControlador_PaqueteCRUD\\EstadoEntidad.cs",
+              "RelativeDocumentMoniker": "CapaControlador_PaqueteCRUD\\EstadoEntidad.cs",
+              "ToolTip": "C:\\Users\\alex5\\Downloads\\Capacitacion 2\\Capacitacion 2\\Paquete_CRUD\\CapaControlador_PaqueteCRUD\\EstadoEntidad.cs",
+              "RelativeToolTip": "CapaControlador_PaqueteCRUD\\EstadoEntidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T06:43:46.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmPaquetes.cs",
+              "DocumentMoniker": "C:\\Users\\alex5\\Downloads\\Capacitacion 2\\Capacitacion 2\\Paquete_CRUD\\CapaVista_PaqueteCRUD\\Formas\\FrmPaquetes.cs",
+              "RelativeDocumentMoniker": "CapaVista_PaqueteCRUD\\Formas\\FrmPaquetes.cs",
+              "ToolTip": "C:\\Users\\alex5\\Downloads\\Capacitacion 2\\Capacitacion 2\\Paquete_CRUD\\CapaVista_PaqueteCRUD\\Formas\\FrmPaquetes.cs",
+              "RelativeToolTip": "CapaVista_PaqueteCRUD\\Formas\\FrmPaquetes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T04:57:14.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPaquetes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alex5\\Downloads\\Capacitacion 2\\Capacitacion 2\\Paquete_CRUD\\CapaVista_PaqueteCRUD\\Formas\\FrmPaquetes.cs",
+              "RelativeDocumentMoniker": "CapaVista_PaqueteCRUD\\Formas\\FrmPaquetes.cs",
+              "ToolTip": "C:\\Users\\alex5\\Downloads\\Capacitacion 2\\Capacitacion 2\\Paquete_CRUD\\CapaVista_PaqueteCRUD\\Formas\\FrmPaquetes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaVista_PaqueteCRUD\\Formas\\FrmPaquetes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T04:57:07.219Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

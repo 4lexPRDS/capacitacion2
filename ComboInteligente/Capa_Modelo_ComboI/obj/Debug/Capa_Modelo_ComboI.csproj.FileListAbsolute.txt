@@ -1,0 +1,6 @@
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\ComboInteligente\Capa_Modelo_ComboI\bin\Debug\Capa_Modelo_ComboI.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\ComboInteligente\Capa_Modelo_ComboI\bin\Debug\Capa_Modelo_ComboI.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\ComboInteligente\Capa_Modelo_ComboI\obj\Debug\Capa_Modelo_ComboI.csproj.AssemblyReference.cache
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\ComboInteligente\Capa_Modelo_ComboI\obj\Debug\Capa_Modelo_ComboI.csproj.CoreCompileInputs.cache
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\ComboInteligente\Capa_Modelo_ComboI\obj\Debug\Capa_Modelo_ComboI.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\ComboInteligente\Capa_Modelo_ComboI\obj\Debug\Capa_Modelo_ComboI.pdb

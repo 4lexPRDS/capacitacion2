@@ -1,0 +1,18 @@
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaControlador_PaqueteCRUD\bin\Debug\CapaControlador_PaqueteCRUD.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaControlador_PaqueteCRUD\bin\Debug\CapaControlador_PaqueteCRUD.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaControlador_PaqueteCRUD\bin\Debug\CapaModelo_PaqueteCRUD.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaControlador_PaqueteCRUD\bin\Debug\CapaModelo_PaqueteCRUD.pdb
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaControlador_PaqueteCRUD\obj\Debug\CapaControlador_PaqueteCRUD.csproj.AssemblyReference.cache
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaControlador_PaqueteCRUD\obj\Debug\CapaControlador_PaqueteCRUD.csproj.CoreCompileInputs.cache
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaControlador_PaqueteCRUD\obj\Debug\CapaCont.7FBD59D2.Up2Date
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaControlador_PaqueteCRUD\obj\Debug\CapaControlador_PaqueteCRUD.dll
+C:\Users\jurad\Downloads\Practica2_CRUD_Paquete\Paquete_CRUD\CapaControlador_PaqueteCRUD\obj\Debug\CapaControlador_PaqueteCRUD.pdb
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaControlador_PaqueteCRUD\bin\Debug\CapaControlador_PaqueteCRUD.dll
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaControlador_PaqueteCRUD\bin\Debug\CapaControlador_PaqueteCRUD.pdb
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaControlador_PaqueteCRUD\bin\Debug\CapaModelo_PaqueteCRUD.dll
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaControlador_PaqueteCRUD\bin\Debug\CapaModelo_PaqueteCRUD.pdb
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaControlador_PaqueteCRUD\obj\Debug\CapaControlador_PaqueteCRUD.csproj.AssemblyReference.cache
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaControlador_PaqueteCRUD\obj\Debug\CapaControlador_PaqueteCRUD.csproj.CoreCompileInputs.cache
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaControlador_PaqueteCRUD\obj\Debug\CapaCont.7FBD59D2.Up2Date
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaControlador_PaqueteCRUD\obj\Debug\CapaControlador_PaqueteCRUD.dll
+C:\Users\alex5\Downloads\Capacitacion 2\Capacitacion 2\Paquete_CRUD\CapaControlador_PaqueteCRUD\obj\Debug\CapaControlador_PaqueteCRUD.pdb
